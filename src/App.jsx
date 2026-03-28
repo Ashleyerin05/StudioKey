@@ -366,15 +366,15 @@ export default function StudioKeyCaseStudy() {
               Existing platforms charge enterprise prices for boutique problems
             </h2>
             <p style={{ color: T.muted, lineHeight: 1.8, margin: "0 0 16px" }}>
-              I spent two years teaching yoga at a boutique studio running on a leading fitness management platform. I watched the owner pay escalating prices for software that actively sent her students to competing studios through its marketplace.
+              I spent two years teaching yoga at a studio running on a leading fitness management platform. I watched the owner pay escalating prices for software that actively sent clients to competing studios through its marketplace.
             </p>
             <p style={{ color: T.muted, lineHeight: 1.8, margin: "0 0 28px" }}>
-              As an instructor, I had zero visibility into how my classes were performing. No attendance data, no feedback synthesis, no earnings transparency. The tools existed — they were just locked behind a product built for chains, not for the 2–8 instructor studio.
+              As an instructor, I had zero visibility into how my classes were performing. No past attendance data, no feedback, no earnings transparency. The tools existed, but they were just locked behind a product built for chains, not for the 2–8 instructor studio.
             </p>
             <div style={{ padding: "18px 20px", borderRadius: 10, borderLeft: `3px solid ${T.sage}`, background: T.mint }}>
               <div style={{ fontFamily: T.mono, fontSize: 10, color: T.sage, marginBottom: 6 }}>PROBLEM STATEMENT</div>
               <p style={{ fontFamily: T.serif, fontSize: 16, color: T.forestMid, lineHeight: 1.6, margin: 0, fontStyle: "italic" }}>
-                "How might we give boutique fitness studios enterprise-grade management tools at a price that doesn't assume enterprise-scale revenue?"
+                "How can we give boutique fitness studios enterprise-grade management tools at a price that doesn't assume enterprise-scale revenue?"
               </p>
             </div>
           </FadeIn>
@@ -439,7 +439,7 @@ export default function StudioKeyCaseStudy() {
         <FadeIn delay={0.2}>
           <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 20 }}>
             {[
-              { icon: Users, finding: "Instructors are the retention lever", detail: "11 of 12 instructors said students had followed them when they changed studios. Instructor satisfaction directly predicts member retention." },
+              { icon: Users, finding: "Instructors are the retention lever", detail: "11 of 12 instructors said they had students follow them when they changed studios. Instructor satisfaction directly predicts member retention." },
               { icon: Star, finding: "Feedback loops are broken everywhere", detail: "0 of 5 studio owners had a structured system for acting on student feedback. It was all gut feel and scattered DMs." },
               { icon: Calendar, finding: "Booking friction is a real drop-off point", detail: "Students reported abandoning booking flows 'sometimes' or 'often' in existing platforms — primarily due to marketplace redirects and slow load times." },
             ].map(({ icon: Icon, finding, detail }, i) => (
