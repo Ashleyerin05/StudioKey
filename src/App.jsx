@@ -412,7 +412,7 @@ export default function StudioKeyCaseStudy() {
               17 conversations before writing a single line of code
             </h2>
             <p style={{ color: T.stone, lineHeight: 1.8, fontWeight: 300, paddingTop: 8 }}>
-              I ran structured interviews across three user groups before defining any feature. The goal was to separate real pain from assumed pain — and to understand the decision-making process of a studio owner evaluating new software.
+              I ran structured interviews across three user groups before defining any feature. The goal was to separate real pain from assumed pain, and to understand the decision-making process of a studio owner evaluating new software.
             </p>
           </div>
         </FadeIn>
