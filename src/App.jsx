@@ -268,7 +268,7 @@ export default function StudioKeyCaseStudy() {
 
         {/* Nav */}
         <div style={{ position: "absolute", top: 40, left: 48, right: 48, display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-          <span style={{ fontFamily: T.mono, fontSize: 12, color: T.sagePale, letterSpacing: "0.14em" }}>ASHLEY</span>
+          <span style={{ fontFamily: T.mono, fontSize: 12, color: T.sagePale, letterSpacing: "0.14em" }}>ASHLEY ERIN HOLNESS</span>
           <div style={{ display: "flex", gap: 32 }}>
             {["Research","Design","Strategy"].map(l => (
               <span key={l} style={{ fontFamily: T.mono, fontSize: 11, color: T.stone, letterSpacing: "0.1em" }}>{l}</span>
