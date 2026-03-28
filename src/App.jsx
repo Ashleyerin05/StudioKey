@@ -948,7 +948,7 @@ export default function StudioKeyCaseStudy() {
 
       {/* ── FOOTER ── */}
       <div style={{ background: T.ink, padding: "40px 48px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-        <span style={{ fontFamily: T.serif, fontSize: 20, color: "#fff" }}>Ashley</span>
+        <span style={{ fontFamily: T.serif, fontSize: 20, color: "#fff" }}>Ashley Erin Holness</span>
         <span style={{ fontFamily: T.mono, fontSize: 11, color: T.stone }}>StudioKey · Product Case Study · 2026</span>
       </div>
     </div>
